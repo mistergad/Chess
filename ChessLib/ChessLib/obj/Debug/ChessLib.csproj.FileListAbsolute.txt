@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\ChessLib\ChessLib\bin\Debug\ChessLib.dll
+D:\VisualStudioProjects\ChessLib\ChessLib\bin\Debug\ChessLib.pdb
+D:\VisualStudioProjects\ChessLib\ChessLib\obj\Debug\ChessLib.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ChessLib\ChessLib\obj\Debug\ChessLib.dll
+D:\VisualStudioProjects\ChessLib\ChessLib\obj\Debug\ChessLib.pdb
+D:\VisualStudioProjects\ChessLib\ChessLib\obj\Debug\ChessLib.csprojAssemblyReference.cache
